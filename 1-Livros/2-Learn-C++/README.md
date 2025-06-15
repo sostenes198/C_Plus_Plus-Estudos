@@ -63,3 +63,9 @@
 
 ## Controle de fluxo
 ![Categories_flow_control_statements.png](imgs/Categories_flow_control_statements.png)
+
+## Tipos de conversão
+![Type_casting.png](imgs/Type_casting.png)
+
+## Sobrecarga de função
+![Overloaded_functions.png](imgs/Overloaded_functions.png)

@@ -1,0 +1,1 @@
+![kinds_of_template_parameters.png](imgs/kinds_of_template_parameters.png)
