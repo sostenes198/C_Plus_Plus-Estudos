@@ -69,3 +69,8 @@
 
 ## Sobrecarga de função
 ![Overloaded_functions.png](imgs/Overloaded_functions.png)
+
+## Tipos compostos
+![compound_types.png](imgs/compound_types.png)
+
+![how_to_differenttiate_lvalues_and_rvalues.pngz](imgs/how_to_differenttiate_lvalues_and_rvalues.png)
