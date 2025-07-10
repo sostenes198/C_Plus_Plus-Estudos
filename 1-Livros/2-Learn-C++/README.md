@@ -73,4 +73,6 @@
 ## Tipos compostos
 ![compound_types.png](imgs/compound_types.png)
 
-![how_to_differenttiate_lvalues_and_rvalues.pngz](imgs/how_to_differenttiate_lvalues_and_rvalues.png)
+![how_to_differenttiate_lvalues_and_rvalues.png](imgs/how_to_differenttiate_lvalues_and_rvalues.png)
+
+![when_use_pass_by_value_vs_pass_by_reference.png](imgs/when_use_pass_by_value_vs_pass_by_reference.png)
